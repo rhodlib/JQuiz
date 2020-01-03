@@ -1,0 +1,8 @@
+.error {
+    display: none;
+    color: red;
+}
+
+#game {
+    display: none;
+}

@@ -1,6 +1,6 @@
 # JQuiz
 
-This is Final Evaluation from a course of web developer with JavaScript. It's a simple Quiz Game with validatons made in JQuery and Bootstrap.
+This is a Final Evaluation from a course of web developer with JavaScript. It's a simple Quiz Game with validatons made in JQuery and Bootstrap.
 
 ## Technologies
 
